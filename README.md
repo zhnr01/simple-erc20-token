@@ -65,6 +65,20 @@ ape compile
 You can deploy this contract to any EVM-compatible blockchain (Ethereum, Polygon, BSC, etc.)
 using the Ape Framework or any other tool of your choice.
 
+
+The CrowdSaleToken contract is deployed on the **Ethereum Sepolia Testnet**.
+
+- **Contract Address:** [`0x30d4E0209058B383d1A80ca3B720C31d42699643`](https://sepolia.etherscan.io/address/0x30d4E0209058B383d1A80ca3B720C31d42699643)
+- **Network:** Ethereum Sepolia Testnet
+- **Compiler:** Vyper
+- **Deployment Tool:** Ape Framework + Alchemy
+
+### 💬 Interacting with the Contract
+You can interact with the deployed contract in several ways:
+1. **Etherscan** – Use the "Write Contract" and "Read Contract" tabs on Etherscan after connecting your wallet.
+2. **Ape Framework CLI** – Call contract functions using Ape scripts or console.
+3. **Web3.py / ethers.js** – Integrate into your own frontend or Python scripts.
+
 ---
 
 ## 💰 Buying Tokens (Crowdsale)
