@@ -72,7 +72,7 @@ The CrowdSaleToken contract is deployed on the **Ethereum Sepolia Testnet**.
 
 The erc20_token contract is also deployed on the **Ethereum Sepolia Testnet**.
 
-**Contract Address:** [`0xBbF76A17b88014a0bF96e350AAFA3aC934C19CFf](https://sepolia.etherscan.io/address/0xBbF76A17b88014a0bF96e350AAFA3aC934C19CFf)
+**Contract Address:** [`0xBbF76A17b88014a0bF96e350AAFA3aC934C19CFf`](https://sepolia.etherscan.io/address/0xBbF76A17b88014a0bF96e350AAFA3aC934C19CFf)
 
 - **Network:** Ethereum Sepolia Testnet
 - **Compiler:** Vyper
