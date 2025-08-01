@@ -80,7 +80,6 @@ The erc20_token contract is also deployed on the **Ethereum Sepolia Testnet**.
 
 ### 💬 Interacting with the Contract
 You can interact with the deployed contract in several ways:
-1. **Etherscan** – Use the "Write Contract" and "Read Contract" tabs on Etherscan after connecting your wallet.
 1. **Ape Framework CLI** – Call contract functions using Ape scripts or console.
 2. **Web3.py / ethers.js** – Integrate into your own frontend or Python scripts.
 ---
